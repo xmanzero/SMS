@@ -1,0 +1,11 @@
+SMAP
+getdata_jsp.java
+JSP
+*S JSP
+*F
++ 0 getdata.jsp
+resource/file/getdata.jsp
+*L
+5,37:48
+41:85
+*E
